@@ -1,0 +1,17 @@
+*.bak
+.DS_Store
+.buildpath
+.project
+.settings
+*.tmproj
+build
+.idea
+nbproject/
+Thumbs.db
+desktop.ini
+composer.lock
+.DS_Store
+/nbproject/
+/vendor/
+logs/*
+!.gitkeep

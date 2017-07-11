@@ -1,0 +1,5 @@
+RedirectMatch 403 /\.
+
+<Files ~ "\.(log|md|sql)$">
+  deny from all
+</Files>
