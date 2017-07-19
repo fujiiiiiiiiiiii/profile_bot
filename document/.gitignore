@@ -1,0 +1,6 @@
+.DS_Store
+__MACOSX
+._*
+.vagrant
+Thumbs.db
+/nbproject
